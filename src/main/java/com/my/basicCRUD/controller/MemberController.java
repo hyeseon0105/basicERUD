@@ -64,7 +64,7 @@ public class MemberController {
                                  Model model) {
 
         MemberDto dto = memberService.findByID(id);
-log.info("=== dto : " + dto);
+        log.info("=== dto : " + dto);
         model.addAttribute("member", dto);
         return "updateMember";
     }
