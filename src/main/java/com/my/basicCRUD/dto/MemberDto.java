@@ -1,6 +1,6 @@
 package com.my.basicCRUD.dto;
 
-import com.my.basicCRUD.emtty.Member;
+import com.my.basicCRUD.entity.Member;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

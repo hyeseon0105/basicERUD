@@ -1,6 +1,6 @@
 package com.my.basicCRUD.repository;
 
-import com.my.basicCRUD.emtty.Member;
+import com.my.basicCRUD.entity.Member;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

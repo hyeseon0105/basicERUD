@@ -1,4 +1,4 @@
-package com.my.basicCRUD.emtty;
+package com.my.basicCRUD.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
